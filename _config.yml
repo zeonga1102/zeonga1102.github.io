@@ -1,16 +1,16 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Portfolio
+description: Hi! This is JA's Portfolio💻
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
+username: Lee JeongA
+user_description: 안녕하세요👋 백엔드 개발을 공부하고 있습니다! Python 기반의 Flask, Django, DRF를 이용한 웹페이지 제작 프로젝트를 주로 진행해봤습니다. Python 이외에도 JAVA, Swift 등을 이용한 프로젝트도 가능합니다.
+user_title: Backend Developer
+email: zeonga1102@gmail.com
 twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
+github_username:  zeonga1102
 gplus_username:  lorem_ipsum
 
 # Google-analytics
